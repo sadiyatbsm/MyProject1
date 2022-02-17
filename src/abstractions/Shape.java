@@ -1,4 +1,4 @@
-package Abstractions;
+package abstractions;
 
 public abstract class Shape {
 	abstract void area(int x,int y);

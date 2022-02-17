@@ -1,4 +1,4 @@
-package Abstractions;
+package abstractions;
 
 public class AbsMain {
 	public static void main(String[] args) {
